@@ -1,0 +1,11 @@
+C:\Users\Ucenik\Desktop\Ruben Hamza\WebPreglednik\bin\Debug\WebPreglednik.exe.config
+C:\Users\Ucenik\Desktop\Ruben Hamza\WebPreglednik\bin\Debug\WebPreglednik.exe
+C:\Users\Ucenik\Desktop\Ruben Hamza\WebPreglednik\bin\Debug\WebPreglednik.pdb
+C:\Users\Ucenik\Desktop\Ruben Hamza\WebPreglednik\obj\Debug\WebPreglednik.csproj.AssemblyReference.cache
+C:\Users\Ucenik\Desktop\Ruben Hamza\WebPreglednik\obj\Debug\WebPreglednik.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ucenik\Desktop\Ruben Hamza\WebPreglednik\obj\Debug\WebPreglednik.Form1.resources
+C:\Users\Ucenik\Desktop\Ruben Hamza\WebPreglednik\obj\Debug\WebPreglednik.Properties.Resources.resources
+C:\Users\Ucenik\Desktop\Ruben Hamza\WebPreglednik\obj\Debug\WebPreglednik.csproj.GenerateResource.cache
+C:\Users\Ucenik\Desktop\Ruben Hamza\WebPreglednik\obj\Debug\WebPreglednik.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\Desktop\Ruben Hamza\WebPreglednik\obj\Debug\WebPreglednik.exe
+C:\Users\Ucenik\Desktop\Ruben Hamza\WebPreglednik\obj\Debug\WebPreglednik.pdb
